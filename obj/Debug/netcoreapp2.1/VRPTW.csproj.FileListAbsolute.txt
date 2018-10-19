@@ -1,0 +1,11 @@
+/home/rahul/vscode-workspace/VRPTW/bin/Debug/netcoreapp2.1/VRPTW.deps.json
+/home/rahul/vscode-workspace/VRPTW/bin/Debug/netcoreapp2.1/VRPTW.runtimeconfig.json
+/home/rahul/vscode-workspace/VRPTW/bin/Debug/netcoreapp2.1/VRPTW.runtimeconfig.dev.json
+/home/rahul/vscode-workspace/VRPTW/bin/Debug/netcoreapp2.1/VRPTW.dll
+/home/rahul/vscode-workspace/VRPTW/bin/Debug/netcoreapp2.1/VRPTW.pdb
+/home/rahul/vscode-workspace/VRPTW/obj/Debug/netcoreapp2.1/VRPTW.csprojAssemblyReference.cache
+/home/rahul/vscode-workspace/VRPTW/obj/Debug/netcoreapp2.1/VRPTW.csproj.CoreCompileInputs.cache
+/home/rahul/vscode-workspace/VRPTW/obj/Debug/netcoreapp2.1/VRPTW.AssemblyInfoInputs.cache
+/home/rahul/vscode-workspace/VRPTW/obj/Debug/netcoreapp2.1/VRPTW.AssemblyInfo.cs
+/home/rahul/vscode-workspace/VRPTW/obj/Debug/netcoreapp2.1/VRPTW.dll
+/home/rahul/vscode-workspace/VRPTW/obj/Debug/netcoreapp2.1/VRPTW.pdb
