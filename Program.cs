@@ -68,8 +68,14 @@ namespace VRPTW
                 }
             }
 
+            //Calling Simulated Annealing 
             SimulatedAnnealing simulatedAnnealing = new SimulatedAnnealing(depo, vehicle, customerList, cTocDistance);
             simulatedAnnealing.run(100, 1, 0.98, 6000);
+
+            //Calling Tabu Search
+            // TabuSearch tabuSearch = new TabuSearch(depo, vehicle, customerList, cTocDistance);
+            // tabuSearch.run();
+
         }
         
     }
