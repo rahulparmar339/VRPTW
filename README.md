@@ -12,6 +12,8 @@ https://www.researchgate.net/publication/220371726_Heuristic_methods_for_vehicle
 
 https://pdfs.semanticscholar.org/13fe/6b01689e3d12931e0033d761791f27491964.pdf
 
+https://www.youtube.com/watch?v=A7cTp1Fhg9o
+
 
 
 
