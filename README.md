@@ -10,6 +10,10 @@ https://www.researchgate.net/publication/280698215_Improved_simulated_annealing_
 
 https://www.researchgate.net/publication/220371726_Heuristic_methods_for_vehicle_routing_problem_with_time_windows
 
+https://pdfs.semanticscholar.org/13fe/6b01689e3d12931e0033d761791f27491964.pdf
+
+
+
 
 
 
